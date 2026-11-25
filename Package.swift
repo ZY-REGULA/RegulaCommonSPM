@@ -22,8 +22,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RegulaCommonSPM",
-            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/regula/RegulaCommon/9.10.3054/RegulaCommon-9.10.3054.zip",
-            checksum: "513167b469948eb39c9bbafea1b4025a99e02d1799bd83f6fb1c9084f4966d5c"
+            url: "https://repo.zytrust.com/artifactory/zy-mobile-maven/spm/regula/RegulaCommon/9.10/RegulaCommon.xcframework.zip",
+            checksum: "cd69e57a32dc1e840c78538b01be83dffa97c02b608d9ce1cce6b5683c2042c0"
         )
     ]
 )
