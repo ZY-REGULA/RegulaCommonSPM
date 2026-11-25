@@ -1,1 +1,1 @@
-# IdentyFaceLivenessLargeSPM
+# RegulaCommonSPM
